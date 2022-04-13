@@ -7,7 +7,7 @@ public class TestClass {
         System.out.println(pow());
     }
 
-    public static int pow(){
+    public static int pow() {
         return 10;
     }
 }
